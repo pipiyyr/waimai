@@ -1,0 +1,181 @@
+.zhuangtailan{
+    width: 100%;
+    height: 0.4rem;
+    background: rgb(160,160,160,0.1);
+}
+.zhuangtailan img{
+    width: 100%;
+    height: 0.4rem;
+}
+.dingdan{
+    width: 100%;
+    height: 1rem;
+    /*background: chocolate;*/
+}
+.dingdan h2{
+    font-weight:200;
+    text-align: center;
+    line-height: 1rem;
+}
+.leftTop{
+    width: 2.46rem;
+    height: 0.6rem;
+    background: rgb(20,164,246);
+    margin-top: 0.2rem;
+    border-radius: 0 0.29rem 0.29rem 0 ;
+}
+.leftTop p{
+    font-weight: bold;
+    height: 0.6rem;
+    line-height: 0.6rem;
+    color: white;
+    font-size: 0.28rem;
+    text-align: center;
+}
+.max{
+    width: 7.5rem;
+    height: 2.5rem;
+    margin: auto;
+    /*background: cyan;*/
+}
+.mak{
+    width: 3.38rem;
+    height: 1.5rem;
+    background:white;
+   margin-left: 0.2rem;
+    margin-top: 0.5rem;
+    float: left;
+    box-shadow: 4px 1px 21px 0 rgba(166,166,166,0.61);
+}
+.ls{
+    width: 7.5rem;
+    height: 100%;
+    margin: auto;
+}
+.leftBox {
+    width: 1.3rem;
+    height: 1.25rem;
+    float: left;
+}
+.leftBox img{
+    width: 100%;
+    height: 1.25rem;
+    margin-top: 0.125rem;
+    margin-left: 0.1rem;
+}
+.rightText{
+    width: 1.9rem;
+    height: 1.25rem;
+    margin-left: 0.15rem;
+    /*background: yellow;*/
+    float: left;
+    text-align: center;
+}
+.rightText h3{
+    font-weight: 200;
+    margin-top: 0.3rem;
+    color: rgb(29,29,29);
+}
+.rightText p {
+    font-size: 0.23rem;
+    color: rgb(102, 102, 102);
+    line-height:0.7rem ;
+}
+.longBox{
+    width: 6.73rem;
+    height: 1.48rem;
+    margin-top: 0.27rem;
+    /*background: darkkhaki;*/
+    margin-left: 0.38rem;
+    border-radius: 0.11rem;
+    box-shadow: -8px -2px 29px 0 rgba(151,151,151,0.29);
+}
+.mifan{
+    width: 1.36rem;
+    height: 1.23rem;
+    background: rgb(96,80,79);
+    float: left;
+    border-radius: 0.11rem;
+    margin: 0.12rem 0.2rem;
+}
+.mifan img{
+    width: 1.24rem;
+    height: 1.13rem;
+    /*float: left;*/
+    border-radius: 0.11rem;
+    margin: 0.06rem;
+}
+.gutouText{
+    width: 3.6rem;
+    height: 1.1rem;
+    /*background: yellow;*/
+    float: left;
+    margin: 0.2rem auto;
+
+}
+.gutouText h3{
+    color: rgb(29,29,29);
+}
+.gutouText p{
+     font-size: 0.24rem;
+     color: rgb(151,151,151);
+ }
+.gutouText p.slh{
+    font-size: 0.24rem;
+    color: rgb(151,151,151);
+    margin-top: -0.12rem;
+}
+p:nth-child(1){
+    color: black;
+}
+.gutouText p.hg{
+    font-size: 0.18rem;
+    color: rgb(76,76,76);
+}
+.zailai{
+    width: 0.99rem;
+    height: 0.35rem;
+    border-radius: 0.15rem;
+    background: rgb(248,4,106);
+    float: right;
+    margin-top: 0.5rem;
+    margin-right: 0.21rem;
+    color: rgb(254,254,254);
+    font-size: 0.21rem;
+    text-align: center;
+    line-height: 0.35rem;
+}
+.xiamian{
+    width: 100%;
+    height: 1.1rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: ghostwhite;
+}
+.last1{
+    width: 7.02rem;
+    height: 0.7rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.last1 img {
+    width: 0.51rem;
+    height: 0.51rem;
+}
+.text{
+    width:7.02rem;
+    height: 0.28rem;
+    line-height: 0.28rem;
+    display:flex ;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+}
+.text p{
+    width:0.51rem ;
+    height: 0.26rem;
+
+}
